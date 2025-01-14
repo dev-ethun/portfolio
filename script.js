@@ -1,7 +1,7 @@
 
 
 function hey(){
-    window.location.href='../Html/course.html'
+    window.location.href='../Html/course.html';
 }
 
 function core(){
